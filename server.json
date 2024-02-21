@@ -1,0 +1,352 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Redux",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Express",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Spring",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "iOS",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Android",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Dart",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "GCP",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Azure",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Jenkins",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "CI/CD",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "TDD",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "BDD",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Agile",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Scrum",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Kanban",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "XP",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Lean",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Six Sigma",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "TOGAF",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "ITIL",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "COBIT",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "PMP",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "PRINCE2",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "PMI-ACP",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "CSM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "CSPO",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "PSM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "PSPO",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "SAFe",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "LeSS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Nexus",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "DAD",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "Spotify",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Scrum@Scale",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgilePgM",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileBA",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileDS",
+      "amountOfVideos": 20
+    },
+    {
+      "title": "AgilePfM",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "AgileSHIFT",
+      "amountOfVideos": 20
+    }
+  ]
+}
