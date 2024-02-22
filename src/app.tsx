@@ -16,6 +16,7 @@ import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { useSearchParams } from "react-router-dom";
 import { useState } from "react";
 import * as Dialog from "@radix-ui/react-dialog";
+import { CreateTagForm } from "./components/create-tag-form";
 
 export interface TagResponseProps {
   first: number;
@@ -99,9 +100,7 @@ export function App() {
                     Tags can be used group videos about similar concepts.
                   </Dialog.Description>
                 </div>
-                <Dialog.Close asChild>
-                  <Button>Close</Button>
-                </Dialog.Close>
+                <CreateTagForm />
               </Dialog.Content>
             </Dialog.Portal>
           </Dialog.Root>
