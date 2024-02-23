@@ -30,6 +30,7 @@ export interface TagResponseProps {
 
 export interface Tag {
   title: string;
+  slug: string;
   amountOfVideos: number;
   id: string;
 }
@@ -146,7 +147,9 @@ export function App() {
                   <TableCell>
                     <div className="flex flex-col gap-0.5">
                       <span className="font-medium">{value.title}</span>
-                      <span className="text-xs text-zinc-500">{value.id}</span>
+                      <span className="text-xs text-zinc-500">
+                        {value.slug}
+                      </span>
                     </div>
                   </TableCell>
                   <TableCell className="text-zinc-300">

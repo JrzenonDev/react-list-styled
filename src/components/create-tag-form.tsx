@@ -6,8 +6,7 @@ import { Button } from "./ui/button";
 import * as Dialog from "@radix-ui/react-dialog";
 
 const createFormSchema = z.object({
-  name: z.string().min(3, { message: "Minimum of 3 characters" }),
-  slug: z.string(),
+  title: z.string().min(3, { message: "Minimum of 3 characters" }),
 });
 
 type CreateTagFormProps = z.infer<typeof createFormSchema>;
@@ -27,21 +26,28 @@ export const CreateTagForm = () => {
     resolver: zodResolver(createFormSchema),
   });
 
-  const handleCreateTag = (data: CreateTagFormProps) => {
-    console.log(data);
-  };
+  const slug = watch("title") ? getSlugToString(watch("title")) : "";
 
-  const slug = getSlugToString(watch("name"));
+  const handleCreateTag = async ({ title }: CreateTagFormProps) => {
+    await fetch("http://localhost:3333/tags", {
+      method: "POST",
+      body: JSON.stringify({
+        title,
+        slug,
+        amountOfVideos: 0,
+      }),
+    });
+  };
 
   return (
     <form onSubmit={handleSubmit(handleCreateTag)} className="w-full space-y-6">
       <div className="space-y-2">
-        <label className="text-sm font-medium block" htmlFor="name">
+        <label className="text-sm font-medium block" htmlFor="title">
           Tag Form
         </label>
         <input
-          {...register("name")}
-          id="name"
+          {...register("title")}
+          id="title"
           type="text"
           className="border border-zinc-800 rounded-lg px-3 py-2.5 bg-zinc-800/50 w-full text-sm"
         />
@@ -52,7 +58,6 @@ export const CreateTagForm = () => {
           Slug
         </label>
         <input
-          {...register("slug")}
           id="slug"
           type="text"
           value={slug}

@@ -2,351 +2,529 @@
   "tags": [
     {
       "title": "React",
+      "slug": "old",
       "amountOfVideos": 142
     },
     {
       "title": "Redux",
+      "slug": "old",
       "amountOfVideos": 52
     },
     {
       "title": "JavaScript",
+      "slug": "old",
       "amountOfVideos": 100
     },
     {
       "title": "Node.js",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "Express",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "MongoDB",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "SQL",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "Python",
+      "slug": "old",
       "amountOfVideos": 60
     },
     {
       "title": "Django",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Flask",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Java",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "Spring",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Kotlin",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Swift",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "iOS",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "Android",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "Kotlin",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Flutter",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Dart",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AWS",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "GCP",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Azure",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Docker",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Kubernetes",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Jenkins",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Git",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "CI/CD",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "TDD",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "BDD",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Agile",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Scrum",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Kanban",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "XP",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Lean",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Six Sigma",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "TOGAF",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "ITIL",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "COBIT",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "PMP",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "PRINCE2",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "PMI-ACP",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "CSM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "CSPO",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "PSM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "PSPO",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "SAFe",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "LeSS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Nexus",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "DAD",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "Spotify",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Scrum@Scale",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgilePgM",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileBA",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileDS",
+      "slug": "old",
       "amountOfVideos": 20
     },
     {
       "title": "AgilePfM",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "AgileSHIFT",
+      "slug": "old",
       "amountOfVideos": 20
+    },
+    {
+      "id": "3d04",
+      "name": "Controllers",
+      "slug": ""
+    },
+    {
+      "id": "a3b4",
+      "name": "Controllers",
+      "slug": ""
+    },
+    {
+      "id": "4d74",
+      "name": "Controllers",
+      "slug": ""
+    },
+    {
+      "id": "2570",
+      "name": "Controllers",
+      "slug": ""
+    },
+    {
+      "id": "42b4",
+      "name": "teste",
+      "slug": ""
+    },
+    {
+      "id": "2101",
+      "name": "noca teca",
+      "slug": ""
+    },
+    {
+      "id": "aa2a",
+      "name": "dsdsda teste",
+      "slug": ""
+    },
+    {
+      "id": "96fb",
+      "name": "teste nova 2123",
+      "slug": ""
+    },
+    {
+      "id": "6946",
+      "name": "te teste novo @#23232ddsda 43432@@@ teste",
+      "slug": ""
+    },
+    {
+      "id": "6a0c",
+      "name": "teste novo",
+      "slug": "teste-novo"
+    },
+    {
+      "id": "3cc3",
+      "name": "teste novo teste",
+      "slug": "teste-novo"
+    },
+    {
+      "id": "542e",
+      "name": "teste novo teste teste",
+      "slug": "teste-novo"
+    },
+    {
+      "id": "4166",
+      "name": "teste novo teste 123",
+      "slug": ""
+    },
+    {
+      "id": "6be8",
+      "name": "teste novo teste 123",
+      "slug": ""
+    },
+    {
+      "id": "6f78",
+      "name": "teste novo teste 123",
+      "slug": ""
+    },
+    {
+      "id": "7bb4",
+      "name": "teste",
+      "slug": ""
+    },
+    {
+      "id": "fa15",
+      "name": "Redux saga",
+      "slug": ""
+    },
+    {
+      "id": "2df1",
+      "title": "agora vai certo",
+      "slug": "agora-vai-certo",
+      "amountOfVideos": 0
     }
   ]
 }
